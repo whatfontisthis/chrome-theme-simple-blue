@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Simple Blue Color Theme",
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "background_tab": [0, 63, 136],
+      "background_tab_inactive": [55, 105, 150],
+      "background_tab_incognito": [0, 63, 136],
+      "background_tab_incognito_inactive": [0, 50, 108],
+      "bookmark_text": [255, 255, 255],
+      "button_background": [4, 102, 200],
+      "frame": [0, 63, 136],
+      "frame_inactive": [55, 105, 150],
+      "frame_incognito": [0, 70, 150],
+      "frame_incognito_inactive": [0, 50, 108],
+      "ntp_background": [225, 239, 255],
+      "ntp_header": [255, 255, 255],
+      "ntp_link": [4, 102, 200],
+      "ntp_text": [0, 0, 0],
+      "omnibox_background": [225, 239, 255],
+      "omnibox_text": [0, 63, 136],
+      "tab_background_text": [255, 255, 255],
+      "tab_background_text_inactive": [255, 255, 255],
+      "tab_background_text_incognito": [255, 255, 255],
+      "tab_background_text_incognito_inactive": [200, 220, 240],
+      "tab_text": [255, 255, 255],
+      "toolbar": [4, 102, 200],
+      "toolbar_button_icon": [255, 255, 255],
+      "toolbar_text": [255, 255, 255]
+    }
+  }
+}
